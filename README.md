@@ -1,6 +1,6 @@
 # Gemma 4 Strands Agent (Local via Ollama)
 
-A Jupyter notebook that runs a conversational AI agent powered by **Gemma 4** locally using **Ollama** and the **Strands Agents** framework. No cloud API keys needed — everything runs on your machine.
+A Jupyter notebook that runs a conversational AI agent powered by **Gemma 4** locally using **Ollama** and the **Strands Agents** framework. No cloud API keys needed, everything runs on your machine.
 
 ---
 
